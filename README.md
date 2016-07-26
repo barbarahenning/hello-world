@@ -1,7 +1,6 @@
-# hello-world
-First project as a data scientist.
+## hello-world
 
-Trying to make and commit the first change.
+### First project as a data scientist.
 
-
-Second try.
+* Trying to *make* and _commit_ the `first change`.
+* Second try.
